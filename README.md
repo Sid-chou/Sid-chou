@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Sid-chou/Sid-chou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sidhant Choudhury
 
-Here are some ideas to get you started:
+Backend-focused full-stack developer with experience building **scalable, production-ready systems**.  
+I work primarily with **Java, Spring Boot, REST APIs, and AWS**, and build end-to-end applications using **React and Next.js** when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy designing clean backend architectures, integrating cloud services, and building automation-driven systems with a strong focus on performance, reliability, and real-world use cases.
+
+**Tech Stack**
+- Java, Python, SQL  
+- Spring Boot, REST APIs  
+- React, Next.js  
+- MySQL, MongoDB  
+- AWS, Docker, Git  
+
+📫 **Contact:**  
+- Email: sidchoudhury16@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sidhant  

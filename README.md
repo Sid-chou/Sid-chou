@@ -1,3 +1,4 @@
+```javascript
 const sidChou = {
     name: "Sidhant Choudhury",
     location: "India",
@@ -15,6 +16,7 @@ const sidChou = {
 };
 
 console.log(sidChou);
+```
 
 <h2> 🔥 &nbsp;GitHub Stats:</h2>
 <p align="center">

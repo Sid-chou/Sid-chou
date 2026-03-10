@@ -7,9 +7,10 @@ const sidChou = {
     },
     development: {
         backend: ["Java", "Spring Boot", "REST APIs"],
-        frontend: ["React", "Next.js"],
-        databases: ["MySQL", "MongoDB"],
-        cloud: ["AWS", "Docker"]
+        frontend: ["React", "Next.js","Three.js","Tailwind"],
+        databases: ["Progrestsql", "MongoDB"],
+        cloud: ["Docker"]
+        machine Learning: ["Rag","Fine Tune","Agentic Ai"]
     },
     languages: ["Java", "Python", "SQL"],
     hobbies: ["Building scalable systems", "Learning new tech"]
